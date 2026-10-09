@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain
+langchain-core
+langchain-openai
+# Pilih SALAH SATU paket provider sesuai API key yang kamu punya:
+langchain-google-genai
+# langchain-anthropic
